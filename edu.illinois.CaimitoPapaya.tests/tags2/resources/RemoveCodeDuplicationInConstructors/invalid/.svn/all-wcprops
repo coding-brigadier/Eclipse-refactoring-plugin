@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/invalid
+END
+TestCannotRefactorDueToSingleConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/invalid/TestCannotRefactorDueToSingleConstructor.java
+END
+TestCannotRefactorDueToXYZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/invalid/TestCannotRefactorDueToXYZ.java
+END
+TestCannotRefactorDueToExistingMegatronConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/invalid/TestCannotRefactorDueToExistingMegatronConstructor.java
+END
+TestCannotRefactorDueToNoConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/invalid/TestCannotRefactorDueToNoConstructor.java
+END

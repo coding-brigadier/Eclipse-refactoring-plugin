@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out
+END
+TestOverlapParamSetDiffParamName.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestOverlapParamSetDiffParamName.java
+END
+TestMegatronCreation.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestMegatronCreation.java
+END
+TestAssignOneValUsingOneOtherClassVar.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestAssignOneValUsingOneOtherClassVar.java
+END
+TestFunctionInsideConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestFunctionInsideConstructor.java
+END
+TestSingleConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestSingleConstructor.java
+END
+TestDisjointParamSetSameInputNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestDisjointParamSetSameInputNames.java
+END
+TestAssignOneValUsingCalculationWithClassVars.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestAssignOneValUsingCalculationWithClassVars.java
+END
+TestAssignValUsingCalculationWithParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestAssignValUsingCalculationWithParams.java
+END
+TestDisjointParamSetDiffInputNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestDisjointParamSetDiffInputNames.java
+END
+TestOverlapParamSetSameParamName.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestOverlapParamSetSameParamName.java
+END
+TestReadAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/resources/RemoveCodeDuplicationInConstructors/object_out/TestReadAccess.java
+END

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+   <extension
+         point="org.eclipse.ltk.core.refactoring.refactoringContributions">
+      <contribution
+            class="org.eclipse.refactoring.IntroduceIndirectionRefactoringContribution"
+            id="org.eclipse.introduce.indirection"/>
+   </extension>
+   <extension
+         point="org.eclipse.ui.actionSets">
+      <actionSet
+            description="Action set containing Eclipse Articles actions"
+            id="org.eclipse.refactoring.actionSet"
+            label="Eclipse Articles"
+            visible="true">
+         <menu
+               id="org.eclipse.jdt.ui.refactoring.menu"
+               label="Refactor"
+               path="edit">
+            <separator name="introduceIndirection"/>
+         </menu>
+         <action
+               class="edu.illinois.CaimitoPapaya.RemoveCodeDuplicationInConstructorsRefactoringAction"
+               definitionId="edu.illinois.CaimitoPapaya.action1"
+               helpContextId="org.eclipse.refactoring.IntroduceIndirection"
+               id="edu.illinois.CaimitoPapaya.action1"
+               label="Remove Code Duplication In Constructors"
+               menubarPath="org.eclipse.jdt.ui.refactoring.menu/typeGroup2"
+               tooltip="Introduce Indirection"/>               
+      </actionSet>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <category
+            description="Eclipse Articles Refactoring Actions"
+            id="org.eclipse.refactoring.category"
+            name="Refactor - Eclipse Articles"/>
+      <command
+            categoryId="org.eclipse.refactoring.category"
+            description="Introduces an indirection"
+            id="org.eclipse.introduce.indirection"
+            name="Introduce Indirection"/>
+   </extension>
+
+</plugin>

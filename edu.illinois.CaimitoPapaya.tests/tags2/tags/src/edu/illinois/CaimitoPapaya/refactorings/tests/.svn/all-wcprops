@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/tags/src/edu/illinois/CaimitoPapaya/refactorings/tests
+END
+RemoveCodeDuplicationInConstructorsTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/tags/src/edu/illinois/CaimitoPapaya/refactorings/tests/RemoveCodeDuplicationInConstructorsTestSetup.java
+END
+RemoveCodeDuplicationInConstructorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/tags/src/edu/illinois/CaimitoPapaya/refactorings/tests/RemoveCodeDuplicationInConstructorsTests.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/tags/src/edu/illinois/CaimitoPapaya/refactorings/tests/Activator.java
+END

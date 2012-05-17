@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/fa11-cs427/!svn/ver/8693/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in
+END
+TestSubset_OneOverlap.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fa11-cs427/!svn/ver/8693/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestSubset_OneOverlap.java
+END
+TestDisjointMegatronCreation_testMixedParamTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/fa11-cs427/!svn/ver/8548/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testMixedParamTypes.java
+END
+TestOverlap_OneOverlap.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/fa11-cs427/!svn/ver/8693/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestOverlap_OneOverlap.java
+END
+TestDisjointMegatronCreation_testInt_testUniqueGlobalAssignments.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/fa11-cs427/!svn/ver/8668/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testInt_testUniqueGlobalAssignments.java
+END
+TestOverlap_MultipleOverlap.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fa11-cs427/!svn/ver/8693/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestOverlap_MultipleOverlap.java
+END
+TestDisjointMegatronCreation_testObj_constructorDoesntAssignDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/fa11-cs427/!svn/ver/8548/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testObj_constructorDoesntAssignDefaults.java
+END
+TestDisjointMegatronCreation_testDouble_constructorDoesntAssignDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/fa11-cs427/!svn/ver/8548/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testDouble_constructorDoesntAssignDefaults.java
+END
+TestAssignValUsingCalculationWithSingleParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/fa11-cs427/!svn/ver/8538/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestAssignValUsingCalculationWithSingleParams.java
+END
+TestDisjointMegatronCreation_testInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/fa11-cs427/!svn/ver/8668/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testInt.java
+END
+TestDisjointMegatronCreation_testInt_testUniqueGlobalAssignments_constructorDoesntAssignDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/fa11-cs427/!svn/ver/8668/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testInt_testUniqueGlobalAssignments_constructorDoesntAssignDefaults.java
+END
+TestSingleConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/fa11-cs427/!svn/ver/7780/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestSingleConstructor.java
+END
+TestFunctionInsideConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/fa11-cs427/!svn/ver/8600/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestFunctionInsideConstructor.java
+END
+TestAssignValUsingCalculationWithMultipleParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/fa11-cs427/!svn/ver/8538/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestAssignValUsingCalculationWithMultipleParams.java
+END
+TestReadAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/fa11-cs427/!svn/ver/7463/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestReadAccess.java
+END
+TestDisjointMegatronCreation_testInt_constructorDoesntAssignDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/fa11-cs427/!svn/ver/8668/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/object_in/TestDisjointMegatronCreation_testInt_constructorDoesntAssignDefaults.java
+END

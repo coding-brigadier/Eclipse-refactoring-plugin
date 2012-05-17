@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/invalid
+END
+TestCannotRefactorDueToXYZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/fa11-cs427/!svn/ver/7783/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tags2/edu.illinois.CaimitoPapaya.tests/resources/RemoveCodeDuplicationInConstructors/invalid/TestCannotRefactorDueToXYZ.java
+END

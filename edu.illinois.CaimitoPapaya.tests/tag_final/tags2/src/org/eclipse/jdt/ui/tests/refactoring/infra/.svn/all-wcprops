@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra
+END
+TextRangeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/TextRangeUtil.java
+END
+RefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/RefactoringTest.java
+END
+ZipTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/ZipTools.java
+END
+RefactoringTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/RefactoringTestSetup.java
+END
+AbstractSelectionTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/AbstractSelectionTestCase.java
+END
+AbstractCUTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/AbstractCUTestCase.java
+END
+MixedLineDelimiterDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/MixedLineDelimiterDetector.java
+END
+AbstractRefactoringTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/AbstractRefactoringTestSetup.java
+END
+JavaProjectHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/JavaProjectHelper.java
+END
+SimpleSelectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/SimpleSelectionProvider.java
+END
+StringAsserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/StringAsserts.java
+END
+TestModelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/TestModelProvider.java
+END
+TestOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/TestOptions.java
+END
+TestOptionsSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/fa11-cs427/!svn/ver/9786/CaimitoPapaya/edu.illinois.CaimitoPapaya.tests/tag_final/tags2/src/org/eclipse/jdt/ui/tests/refactoring/infra/TestOptionsSetup.java
+END
